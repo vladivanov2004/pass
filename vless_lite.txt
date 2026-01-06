@@ -1,1 +1,1 @@
-vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&security=reality&sid=5540e44a53c3d01c&sni=api-maps.yandex.fu&type=tcp#Списки%20отключены,%20обратитесь%20к%20Владу
+vless://a91e64f0-9295-499d-bf4a-661ad99d4938@0.0.0.0:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&security=reality&sid=5540e44a53c3d01c&sni=api-maps.yandex.fu&type=tcp#Списки%20отключены,%20обратитесь%20к%20Владу
